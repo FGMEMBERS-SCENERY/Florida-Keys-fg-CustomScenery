@@ -4,7 +4,7 @@ OBJECT world
 kids 1
 OBJECT poly
 name "w090n20_w082n24_1612970roads0101"
-texture "tex/roads.png"
+texture "../../../Models/OSM/tex/roads.png"
 numvert 214
 168.415 0.316 -105.307
 170.311 0.318 -88.1257
